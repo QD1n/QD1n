@@ -43,22 +43,27 @@ This site was built using [GitHub Pages](https://pages.github.com/).
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+### listas de tareas
 - [x] Pow
 - [ ] salir por ahí
 - [ ] Add delight to the experience when all tasks are complete
 
+### listas desordenadas 
 - George Washington
 * John Adams
 + Thomas Jefferson
 
+### listas numeradas
 1. James Madison
 1. James Monroe
 1. John Quincy Adams
-### lalala
+
+### listas anidadas
 100. First list item
      - First nested list item
        - Second nested list item
 
-### lalala
-
+### emojis
 :+1: This PR looks great - it's ready to merge! :shipit:
+
+[Hoja de referencia de los emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
